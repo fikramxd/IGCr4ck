@@ -7,12 +7,18 @@ apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perint
 
 #  penginstallan
  $ pkg update && pkg upgrade
+
  $ pkg install python
+
  $ pkg install git
+
  $ git clone https://github.com/fikramxd/IGCr4ck
+
  $ cd IGCr4ck
+
  $ git pull
+
  $ python run.py
 
-THANKS🙏🏻
+THANKSS🙏🏻
 Support by : Mr. F • XD
