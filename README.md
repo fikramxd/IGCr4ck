@@ -18,7 +18,7 @@ apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perint
 
  $ git pull
 
- $ python run.py
+ $ python runIGv2.py
 
 THANKSS🙏🏻
 Support by : Mr. F • XD
